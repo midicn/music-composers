@@ -22,7 +22,7 @@ sources:
 作曲家站是**人物档案**。它以人为线索，把作品、时代与风格串起来 ——
 因为很多音乐问题，换个角度从「谁写的、写给谁、为什么这么写」入手，一下就通了。
 
-## 会收录哪些内容
+## 收录哪些作曲家
 
 - **作曲家档案** —— 生平与时代（一生大致怎么走、当时是什么样的音乐环境）、
   风格特征（听得出来的特点）、与同时代人的关系。
@@ -43,7 +43,7 @@ sources:
 2. **当入口用** —— 从一位作曲家出发，走到体裁、乐器与时期。
 3. **当听单用** —— 只看「代表作品」，一路听下去。
 
-## 现在到哪一步
+## 档案什么时候来
 
 档案正在陆续上线。这一站依赖**身份的逐条核对** —— 同名、异体拼写、生卒年、
 作品归属都要核过才敢写，所以会**一批一批地发**，先把最容易混淆的那批人做扎实。
@@ -57,7 +57,7 @@ This is the **people** station. It follows the person as the thread that ties wo
 and style together — because many musical questions open right up once you approach them
 from "who wrote this, for whom, and why in this way".
 
-## What it will contain
+## Whose profiles are included
 
 - **Composer profiles** — life and era (roughly how the life went, and what the musical
   world around it was like), stylistic traits you can actually hear, and relationships with
@@ -81,7 +81,7 @@ from "who wrote this, for whom, and why in this way".
 2. **As a gateway** — start from a composer and move out to genres, instruments and periods.
 3. **As a playlist** — read only the key works and listen straight through.
 
-## Where it stands today
+## When the profiles arrive
 
 Profiles are being added over time. This station depends on **checking identities one by
 one** — shared names, variant spellings, dates and attributions all have to be verified
